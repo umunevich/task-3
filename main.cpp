@@ -32,6 +32,3 @@ void processing_args(int argc, const char * argv[]) {
         throw std::invalid_argument("usage: task-3.exe > results.txt");
     }
 }
-
-
-
